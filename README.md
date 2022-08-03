@@ -8,7 +8,7 @@ Van Calster B, Nieboer D, Vergouwe Y, De Cock B, Pencina MJ, Steyerberg EW. A ca
 This code is not affiliated with (nor checked by) the authors of the reference above. It was verified on multiple datasets that the outputs are the same as the val.prob function in the 'rms' R-package.
 
 ### Requirements
-* Behind brackets is the version in which it was tested.
+(behind brackets is the version in which this script was tested)
 
 For using the function only:
 ```
