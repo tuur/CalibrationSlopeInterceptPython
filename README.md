@@ -1,11 +1,28 @@
 # CalibrationSlopeInterceptPython
-Python function to calculate calibration slope, calibration intercept, and calibration in-the-large for prediction models with a binary outcome.
+A simple Python function to calculate calibration slope, calibration intercept, and calibration in-the-large for prediction models with a binary outcome.
 
 ### Reference (for explanation about how to interpret these measures)
 Van Calster B, Nieboer D, Vergouwe Y, De Cock B, Pencina MJ, Steyerberg EW. A calibration hierarchy for risk models was defined: from utopia to empirical data. Journal of clinical epidemiology. 2016 Jun 1;74:167-76.
 
 ### Disclaimer:
-This code is not affiliated (nor checked by) the authors of the reference above. It was verified on multiple datasets that the outputs are the same as the val.prob function in the 'rms' R-package.
+This code is not affiliated with (nor checked by) the authors of the reference above. It was verified on multiple datasets that the outputs are the same as the val.prob function in the 'rms' R-package.
+
+### Requirements
+* Behind brackets is the version in which it was tested.
+
+For using the function only:
+```
+python (3.8)
+numpy (1.23.1)
+sklearn (1.1.1)
+```
+
+For performing the test/comparison with RMS val.prob:
+```
+rpy2 (3.5.3)
+firthlogist (https://github.com/jzluo/firthlogist)
+R (R 4.2.1 arm64)
+```
 
 
 ### Example
