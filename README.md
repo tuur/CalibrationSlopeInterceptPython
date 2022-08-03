@@ -10,7 +10,7 @@ This code is not affiliated with (nor checked by) the authors of the reference a
 ### Requirements
 (behind brackets is the version in which this script was tested)
 
-For using the function only:
+For using the calibration_slope_intercept_inthelarge function only:
 ```
 python (3.8)
 numpy (1.23.1)
