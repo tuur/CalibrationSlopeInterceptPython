@@ -2,7 +2,7 @@
 Calculation of calibration slope, calibration intercept, and calibration in the large for binary prediction models in Python.
 
 ### Short description:
-Python implementations of calibration slope, calibration intercept, and calibration in the large for prediction models with a binary outcome.
+Python function to calculate calibration slope, calibration intercept, and calibration in-the-large for prediction models with a binary outcome.
 
 ### Reference (for explanation about how to interpret these measures)
 Van Calster B, Nieboer D, Vergouwe Y, De Cock B, Pencina MJ, Steyerberg EW. A calibration hierarchy for risk models was defined: from utopia to empirical data. Journal of clinical epidemiology. 2016 Jun 1;74:167-76.
