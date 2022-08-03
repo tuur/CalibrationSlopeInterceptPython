@@ -7,7 +7,7 @@ A simple Python function to calculate calibration slope, calibration intercept, 
 - Steyerberg EW, Vergouwe Y. [Towards better clinical prediction models: seven steps for development and an ABCD for validation](https://doi.org/10.1093/eurheartj/ehu207). European heart journal. 2014 Aug 1;35(29):1925-31.
 
 ### Disclaimer:
-This code is not affiliated with (nor checked by) the authors of the reference above. It was verified on multiple datasets that the outputs are the same as the val.prob function in the 'rms' R-package.
+This code is not affiliated with (nor checked by) the authors of the references above. It was verified on multiple datasets that the outputs are the same as the val.prob function in the 'rms' R-package.
 
 ### Requirements
 (behind brackets is the version in which this script was tested)
