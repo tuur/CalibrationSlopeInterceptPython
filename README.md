@@ -21,7 +21,7 @@ For performing the test/comparison with RMS val.prob:
 ```
 rpy2 (3.5.3)
 firthlogist (https://github.com/jzluo/firthlogist)
-R (R 4.2.1 arm64)
+R (4.2.1 arm64)
 ```
 
 
