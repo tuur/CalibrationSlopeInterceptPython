@@ -1,7 +1,4 @@
 # CalibrationSlopeInterceptPython
-Calculation of calibration slope, calibration intercept, and calibration in the large for binary prediction models in Python.
-
-### Short description:
 Python function to calculate calibration slope, calibration intercept, and calibration in-the-large for prediction models with a binary outcome.
 
 ### Reference (for explanation about how to interpret these measures)
